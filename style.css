@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Tint&family=Foldit:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Tint&family=Caveat:wght@400..700&family=Foldit:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+body {
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("images/bbg.jpg");
+}
+
+.bh {
+  margin-top: 2%;
+  font-family: "Caveat", cursive;
+  font-size: 4rem;
+  font-weight: 900;
+  color: rgb(0, 0, 0, 0.65);
+}
+
+.images {
+  width: 100%;
+  display: block;
+  margin-bottom: 2%;
+  border-radius: 10px;
+}
+
+.col-div {
+  text-align: center;
+}
+
+.row-div {
+  margin: 0% 3%;
+  margin-top: 6%;
+}
+
+.nh {
+  text-decoration: none;
+  font-size: 2rem;
+  color: rgb(0, 0, 0, 0.65);
+  font-weight: bold;
+}
+
+.nh:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0, 0.85);
+}
+
+.des{
+    font-size: 1.4rem;
+    margin-top: 2%;
+    color: rgb(183, 208, 224);
+    background-color: rgb(0, 0, 0, 0.65);
+    padding: 4% 6%;
+    border-radius: 15%;
+    line-height: 1.4;
+}
